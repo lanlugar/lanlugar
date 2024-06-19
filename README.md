@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lanlugar
-- 👀 I’m interested in developing scalable web applications
-- 🌱 I’m currently learning spring
+- 👀 I’m interested in developing highly performant web applications
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/lugardlan/
 
